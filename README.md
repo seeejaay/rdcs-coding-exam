@@ -1,4 +1,3 @@
-
 # Coding Exam
 
 Create a Laravel backend:
@@ -13,6 +12,12 @@ Create a ReactJS frontend:
     - Logout Button
 - CRUD Operations for **ROLE**
 - CRUD Operations for **USERS**
+
+**TEST USER:**
+
+**Email**:```admin@example.com```
+
+**Password**: ```P@ssw0rd!``` or ```P@ssw0rd```
 
 To Migrate Database:
 ```php 
@@ -36,3 +41,4 @@ Run ReactJS:
 ```js
 npm run dev or npm run build
 ```
+
